@@ -28,15 +28,15 @@ Also I corrected the colon for the lockscreen time.
 @matheuseduardo
 
 ## Changelog ##
-V18: Solved some hyphens alignment issues
-V17: Compatibility with Magisk 20.2
-V16: Correcting the glitches introduced in V15. V16 was generated with my PC which resulted in much lighter files and (hopefully) solving the V15 glitches
-V15: Improved compatibility with latest versions of MIUI roms + fixed south-east and south-west arrows
-V14: Getting back to V10 because I found yet other bugs which just add to the list of issues due to the switch from V10 to V11
-V13: Integrating missing glyphes that I forgot to merge from V10 to V11
-V12: Correcting lockscreen colon issue on certain ROMs
-V11: Updated with latest Google Sans font versions + definitely removed EMOJIs from both Magisk and TWRP zip files
-V10: Correction of small issues with the font itself + removed EMOJIs (the EMOJIs from your ROM will be preserved)
-V9: Additional fonts RobotoCondensed-Medium, RobotoCondensed-MediumItalic, RobotoNum-3L, RobotoNum-3R
-V8: Underline FIX for all weights of font (thanks @RocketSauce83) 
-V7: Missing glyphes imported from usual ROBOTO
+* V18: Solved some hyphens alignment issues
+* V17: Compatibility with Magisk 20.2
+* V16: Correcting the glitches introduced in V15. V16 was generated with my PC which resulted in much lighter files and (hopefully) solving the V15 glitches
+* V15: Improved compatibility with latest versions of MIUI roms + fixed south-east and south-west arrows
+* V14: Getting back to V10 because I found yet other bugs which just add to the list of issues due to the switch from V10 to V11
+* V13: Integrating missing glyphes that I forgot to merge from V10 to V11
+* V12: Correcting lockscreen colon issue on certain ROMs
+* V11: Updated with latest Google Sans font versions + definitely removed EMOJIs from both Magisk and TWRP zip files
+* V10: Correction of small issues with the font itself + removed EMOJIs (the EMOJIs from your ROM will be preserved)
+* V9: Additional fonts RobotoCondensed-Medium, RobotoCondensed-MediumItalic, RobotoNum-3L, RobotoNum-3R
+* V8: Underline FIX for all weights of font (thanks @RocketSauce83) 
+* V7: Missing glyphes imported from usual ROBOTO
