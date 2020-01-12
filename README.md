@@ -28,6 +28,7 @@ Also I corrected the colon for the lockscreen time.
 @matheuseduardo
 
 ## Changelog ##
+* V19: Solving underlining issues
 * V18: Solved some hyphens alignment issues
 * V17: Compatibility with Magisk 20.2
 * V16: Correcting the glitches introduced in V15. V16 was generated with my PC which resulted in much lighter files and (hopefully) solving the V15 glitches
