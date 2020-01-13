@@ -28,6 +28,7 @@ Also I corrected the colon for the lockscreen time.
 @matheuseduardo
 
 ## Changelog ##
+* V20: Thicker underlining line
 * V19: Solving underlining issues
 * V18: Solved some hyphens alignment issues
 * V17: Compatibility with Magisk 20.2
